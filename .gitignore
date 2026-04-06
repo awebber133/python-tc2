@@ -1,0 +1,15 @@
+# Node
+node_modules/
+
+# Terraform
+terraform/.terraform/
+*.tfstate
+*.tfstate.backup
+terraform.lock.hcl
+
+# Secrets
+*.pem
+
+# OS
+.DS_Store
+Thumbs.db
